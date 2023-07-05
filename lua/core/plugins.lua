@@ -44,5 +44,6 @@ require("lazy").setup({
     }, {"folke/which-key.nvim"},
     { 'phaazon/hop.nvim'},
     { 'hrsh7th/vim-vsnip' },
-    {'hrsh7th/vim-vsnip-integ'}
+    {'hrsh7th/vim-vsnip-integ'},
+    {'lalitmee/cobalt2.nvim'}
 });
